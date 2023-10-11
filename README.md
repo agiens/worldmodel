@@ -44,3 +44,5 @@ Eg. if Eva's program can produce higher output for the Nasdaq index in a relatio
 9. Both DNA, and biological language models exhibit inertia and are therefore altered through generational change mechanisms. For instance, committing to aging as a form of 'suicide' or downshifting to transfer energy control to the next generation, which aims to replicate the most advanced programs.
 
 10. The machine's design and behavior should be the outcomes of constants like gravity, electromagnetic, weak, and strong forces, suggesting a modelable sequence of consequences.
+
+Should we detail the 10 theses? Welcome to comment. 
