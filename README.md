@@ -10,7 +10,7 @@ That is why the hero of Harry Potter defeated the past alpha, Conan the Barbaria
 
 The brain of the sapience's survival machine — the capital markets — sent a message from the future through the prices rippling over the capital, labor, and dating markets: scale the internet. 
 
-His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Dave a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he came to fill in, he got lots of seeds of intuitions instead.
+His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Abel a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he came to fill in, he got lots of seeds of intuitions instead.
 
 The Agiens
 ---
