@@ -1,5 +1,5 @@
 # worldmodel
-The World Model is a framework to train agiens to understand and engineer solutions for the survival machine of life. Agiens are cooperating and self-evolving LLM-driven apps hirable as teams of assistants at agiens.com.
+The World Model is a framework to train agiens to understand and engineer solutions for the survival machine of life. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable as teams of assistants at agiens.com.
 
 Intro
 --- 
