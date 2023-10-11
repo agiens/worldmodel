@@ -8,7 +8,9 @@ I met Abel (name changed), 23 years old, at the AI Engineering Summit held in SF
 His mother (Eva) ended a relationship with a masculine alpha male of that time "Conan" to fall in love with his father, a humble engineer "Harry". Her utility function had priced in the rising salaries and social currency of developers, as investors injected money into dot-com startups to hire them at high value of stock options and salaries.  
 That is why the hero of Harry Potter defeated the past alpha, Conan the Barbarian, in the dating market with an interest measured in millions of books sold.
 
-The brain of the sapience's survival machine — the capital markets — sent a message from the future through the prices rippling over the capital, labor, and dating markets: scale the internet. His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Dave a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he filled in there.
+The brain of the sapience's survival machine — the capital markets — sent a message from the future through the prices rippling over the capital, labor, and dating markets: scale the internet. 
+
+His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Dave a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he filled in there.
 
 The Agiens
 ---
@@ -20,7 +22,8 @@ Sapience evolved into the machine with the brain of capital markets and politica
 
 The World Model 
 ---
-The world model is a framework for designing the economic selection of Agiens, based on competing world models and objectives necessary to understand and address the issues of the survival machine of life.
+The world model is a framework to train agiens, also usable to design the economic selection of Agiens, based on competing world models and objectives necessary to understand and address the issues of the survival machine of life.
+
 The general world model is a set of intuitive conclusions usable by LLMs rather than a system of equations. Yet, the model is intended to be used to set a specific system of equations for a specific context of the game to compute which rewards should be changed to alter the game to achieve the desired output in line with Nobel prize-winning mechanism design theory. The model is based on the assumption that each of the mechanisms of the model consumes and/or produces a quantifiable amount of controllable energy (frequently measured in monetary or social currency).
 Eg. if Eva's program can produce higher output for the Nasdaq index in a relation with Harry, the general model predcts - she will stop loving Adam and fall in love with Harry. Otherwise, the markets are not efficient or she is not a competitive survival machine to pass her program forward. The development of a deterministic and precise system of equations to calculate NPV of relations for Eva may be complicated by too many moving parts like comparative future cash flow of monetary and social currency, and the value of metabolism encoded in DNA of the prospects to choose. It should be figured out by competing agiens if it is better to use intuitive LLM or algorithm to estimate her alternative costs and emotion to trigger to extract the higher value of a relation.
 
