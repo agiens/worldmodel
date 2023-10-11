@@ -1,4 +1,4 @@
-# worldmodel
+# worldmodel for agiens.com
 The World Model is a framework to train agiens to understand and engineer solutions for the survival machine of life.
 
 Intro
