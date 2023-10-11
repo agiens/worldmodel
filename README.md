@@ -3,11 +3,12 @@ The World Model is a framework to train agiens to understand and engineer soluti
 
 Intro
 --- 
-I met Abel (name changed) at the AI Engineering Summit held in SF in October'23 by AutoGPT folks. Like many others in the hall, he was born 23 years ago as investors were incentivizing an increase in the developer population to scale the internet, boost their tech portfolio returns, and, as a result, elevate the Nasdaq index.
+I met Abel (name changed), 23 years old, at the AI Engineering Summit held in SF in October'23 by AutoGPT folks. Like many others in the hall, he was the dot.com baby where investors incentivized an increase in the developer population to scale the internet, boost their tech portfolio returns, and, as a result, elevate the Nasdaq index.
 
-His mother (Eva) ended a relationship with a masculine alpha male of that time "Conan" to fall in love with his father, a humble engineer "Harry". Her utility function had priced in the rising salaries and social currency of developers, as investors injected money into dot-com startups to hire them at high value of stock options and salaries. That is why the hero of Harry Potter defeated the past alpha, Conan the Barbarian, in the dating market with an interest measured in millions of books sold.
+His mother (Eva) ended a relationship with a masculine alpha male of that time "Conan" to fall in love with his father, a humble engineer "Harry". Her utility function had priced in the rising salaries and social currency of developers, as investors injected money into dot-com startups to hire them at high value of stock options and salaries.  
+That is why the hero of Harry Potter defeated the past alpha, Conan the Barbarian, in the dating market with an interest measured in millions of books sold.
 
-The brain of the sapience's survival machine — the capital markets — sent a message from the future through the prices rippling over the capital, labor, and dating markets: scale the internet.  His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Dave a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he filled in there.
+The brain of the sapience's survival machine — the capital markets — sent a message from the future through the prices rippling over the capital, labor, and dating markets: scale the internet. His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Dave a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he filled in there.
 
 The Agiens
 ---
