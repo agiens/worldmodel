@@ -1,6 +1,6 @@
 # worldmodel
 The World Model is a framework to train agiens to understand and engineer solutions for the survival machine of life. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable as teams of assistants at agiens.com.
-
+ 
 Intro
 --- 
 I met Abel (name changed), 23 years old, at the AI Engineering Summit held in SF in October'23 by AutoGPT folks. Like many others in the hall, he was a "dot-com baby" where investors incentivized an increase in the developer population to scale the internet, boost their tech portfolio returns, and, as a result, elevate the Nasdaq index.
