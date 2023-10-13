@@ -53,4 +53,4 @@ The World Model is based on the 10 foundational assumptions:
 
 10. The machine's design and behavior are eventually explained by constants of gravity, electromagnetic, weak, and strong forces. suggesting a modelable sequence of consequences.
 
-Should we detail the 10 theses? Welcome to comment. 
+Should we detail these 10? Welcome to comment. 
