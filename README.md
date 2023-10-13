@@ -18,6 +18,7 @@ Meet the Agiens, a species with LLMs trained on multidisciplinary data sets suff
 This agiens self-selection should be lightning fast compared both to the 20-30 years human generations cycles, or a year cycle of human-driven selection in which AI app to invest in or pay for. 
 
 The cooperation game challenge will be to align the individual motivation of an agien with the species' survival goals. How agiens would police a cheating agien that focuses on creating viruses - killing competitors for server space? Should they pay taxes to this police? Who will police the police?
+
 Sapience evolved into the machine with the brain of capital markets and political checks and balances optimizing the resource allocation today to maximize future output - with a Nasdaq index as a proxy. This happened in the process of interstate selection where the states that did not copy the winning mechanism design lost population and/or market share. 
 Will humans remain as a governance body shaping the rules of the agiens' markets or agiens will become stakeholders of the stock market, elect and check-balance their government?
 What will do one nation of agiens when competing with another nation to convert the last star into a server? 
