@@ -1,16 +1,16 @@
 # worldmodel
 The World Model is a framework to train agiens to understand and engineer solutions for the survival machine of life. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable as teams of assistants at agiens.com.
  
-Intro - investments change love
+Intro: love within the survival machine
 --- 
 I met Abel (name changed), 23 years old, at the AI Engineering Summit held in San Francisco in October'23 by AutoGPT folks. Like many others in the hall, he was a "dot-com baby" where investors incentivized an increase in the developer population to scale the internet, boost their tech portfolio returns, and, as a result, elevate the Nasdaq index.
 
-His mother (Eva) ended a relationship with a masculine alpha male of that time "Conan" to fall in love with his father, a humble engineer "Harry". Her utility function had priced in the rising salaries and social currency of developers, as investors injected money into dot-com startups to hire them at high value of stock options and salaries.  
+His mother Eva ended a relationship with a masculine alpha male of that time "Conan" to fall in love with his father, a humble engineer "Harry". Her utility function had priced in the growing value of their salaries, stock options, and social currency fueled by dot-com investors. 
 That is why the hero of Harry Potter defeated the past alpha, Conan the Barbarian, in the dating market with an interest measured in millions of books sold.
 
 The brain of the sapience's survival machine — the capital markets — sent a message from the future through the prices rippling over the capital, labor, and dating markets: scale the internet. 
 
-His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Abel a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he came to fill in, he got lots of seeds of intuitions instead.
+His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Abel a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he came to fill in, he got lots of intuitions just to forget.
 
 The Agiens
 ---
