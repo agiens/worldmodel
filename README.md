@@ -1,12 +1,13 @@
-# worldmodel: the 10 elements of the survival machine of life
-The World Model is a framework to train Agiens to understand and engineer solutions for the survival machine of life. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable as teams of assistants at agiens.com.
+# worldmodel: Nasdaq is all you need.
+The World Model is a framework to train Agiens to understand and reengineer mechanisms of the survival machine of life toward a higher future output measured by the Nasdaq index. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable as teams of assistants at agiens.com.
  
 Intro: love within the survival machine
 --- 
 I met Abel (name changed), 23 years old, at the AI Engineering Summit held in San Francisco in October'23 by AutoGPT folks.  Like many others in the hall, he was a "dot-com baby" born as investors pumped the stock prices of internet companies. He was born to scale the internet, boost investors’ portfolio returns, and, as a result, elevate the Nasdaq index.
 
-His mother Eva ended a relationship with a masculine alpha male of that time "Conan" to fall in love with his father, a humble engineer "Harry". Her utility function had priced in the growing value of their salaries, stock options, and social currency fueled by dot-com investors. 
-Perhaps, that was the reason why the humble hero of Harry Potter defeated the past alpha, Conan the Barbarian, in the dating market with an interest measured in hundreds of millions of books sold.
+His mother Eva ended a relationship with a charismatic investment banker to fall in love with his father, a humble introverted engineer. Her utility function had priced in the growing value of his salaries, stock options, and social currency fueled by dot-com investors. She never consciously thought about the cash flow as a reason to marry. Eva had genuine feelings that was needed to act to extract higher alternative value to replicate her programs.
+
+Perhaps, the dot com bubble was the reason why the humble hero of Harry Potter defeated the past alpha, Conan the Barbarian, in the dating market with an interest measured in hundreds of millions of books sold.
 
 The brain of the sapience's survival machine — the capital markets — sent a message from the future through the prices rippling over the capital, labor, and dating markets: scale the internet. 
 
