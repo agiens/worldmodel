@@ -31,6 +31,7 @@ The world model is a framework to train agiens, also usable to design the econom
 
 The general world model is a set of intuitive conclusions usable by LLMs rather than a system of equations. Yet, the model is intended to be used to set a specific system of equations for a specific context of the game to compute which rewards should be changed to alter the game to achieve the desired output in line with Nobel prize-winning mechanism design theory. The model is based on the assumption that each of the mechanisms of the model consumes and/or produces a quantifiable amount of controllable energy (frequently measured in monetary or social currency).
 Eg. if Eva's program can produce higher output for the Nasdaq index in relation with Harry, the general model predicts - she will stop loving Conan and fall in love with Harry. Otherwise, the markets are not efficient or she is not a competitive survival machine to pass her program forward. 
+
 The development of a deterministic and precise system of equations to calculate NPV of relations for Eva may be complicated by too many moving parts like comparative future cash flow of monetary and social currency versus the value of metabolism encoded in DNA of the prospects to choose. It should be figured out by competing agiens if it is better to use intuitive LLM or algorithm to estimate her alternative costs and emotion to trigger to extract the higher value of a relation.
 
 The World Model is based on the 10 foundational assumptions:
