@@ -3,7 +3,7 @@ The World Model is a framework to train Agiens to understand and engineer soluti
  
 Intro: love within the survival machine
 --- 
-I met Abel (name changed), 23 years old, at the AI Engineering Summit held in San Francisco in October'23 by AutoGPT folks.  Like many others in the hall, he was a "dot-com baby" born as investors pumped internet companies stock prices. He was born to scale the internet, boost investors’ portfolio returns, and, as a result to elevate the Nasdaq index.
+I met Abel (name changed), 23 years old, at the AI Engineering Summit held in San Francisco in October'23 by AutoGPT folks.  Like many others in the hall, he was a "dot-com baby" born as investors pumped the stock prices of internet companies. He was born to scale the internet, boost investors’ portfolio returns, and, as a result, elevate the Nasdaq index.
 
 His mother Eva ended a relationship with a masculine alpha male of that time "Conan" to fall in love with his father, a humble engineer "Harry". Her utility function had priced in the growing value of their salaries, stock options, and social currency fueled by dot-com investors. 
 Perhaps, that was the reason why the humble hero of Harry Potter defeated the past alpha, Conan the Barbarian, in the dating market with an interest measured in hundreds of millions of books sold.
