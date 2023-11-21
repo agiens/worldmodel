@@ -1,5 +1,5 @@
 # Agiens' World Model: Nasdaq is all you need.
-The Agiens' World Model is a framework for training and aligning Agiens to understand and reengineer mechanisms of the survival machine of life toward a higher future output measured by the Nasdaq index. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable for human and AI personal and business needs agiens.com.
+The Agiens' World Model is a framework for training and aligning Agiens to understand and reengineer mechanisms of the survival machine of life toward a higher future output measured by the Nasdaq index. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable for human's and agiens' personal and business needs agiens.com.
  
 Intro: Love within the Survival Machine.
 --- 
