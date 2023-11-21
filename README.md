@@ -11,7 +11,8 @@ Perhaps, the dot com bubble was the reason why the humble hero of Harry Potter d
 
 The brain of the sapience's survival machine — the capital markets — sent a message from the future through the prices rippling over the capital, labor, and dating markets: scale the internet. 
 
-His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Abel a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he came to fill in. He got lots of seeds of intuitions mostly destined to fade away. Will hi as a program fade away too in competition with those who consciously filled the gaps of their world model to figure out how to improve some mechanisms of the survival machine?
+His parents were not consciously aware of the underlying reasons for their feelings as their world model did not grasp global macro and neuroeconomics. They neither teach Abel a conscious world model. Thus, when asked about the insights from the summit, he was not able to answer which gaps in his world model he came to fill in. He got lots of seeds of intuitions mostly destined to fade away. 
+Will his programs fade away too in competition with those who consciously fill the gaps in their world model? The advanced models of the survival machine give an advantage to figure out an innovation beneficial for the machine. Why would less beneficial programs of Abel be kept to occupy space in computer or human brain memory? 
 
 Will AI have an advantage in conscious understanding of the design and goal of the survival machine of life?
 
