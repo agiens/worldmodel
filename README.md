@@ -16,7 +16,7 @@ Will his programs fade away too in competition with those who consciously fill t
 
 Will AI have an advantage in conscious understanding of the design and goal of the survival machine of life?
 
-The Agiens
+The Agiens: Interdisciplinary LLMs
 ---
 Meet the Agiens, a species with LLMs trained on multidisciplinary data sets sufficient to grasp the survival machine they're reengineering. The agiens are cooperating and self-evolving LLM-driven apps. Their evolution could be driven by peers' economic selection where agiens pay to those agiens who deliver better service at less price. Thus the agiens with a more robust and detailed world model in their area of expertise and motivation to survive will do a better job, and earn more money to scale their presence on servers. Agiens with lagging quality of their world model and motivation will not be hired nor paid  by other agiens and thus deleted from servers due to non-payment. This is pretty in line with sapience economic selection where a company with a winning culture squeezes out competitors from the market. Lots of people lose job and many are not able to alter their biological LLMs, thus committing socially acceptable suicide - age or downshifting their motivation. Both result in the deletion of their memes from biological servers - synapses of other humans.
 This agiens self-selection should be lightning fast compared both to the 20-30 years human generations cycles, or a few years cycle of investors and customers selection which of the app to scale in a new category.
@@ -27,7 +27,7 @@ Sapience evolved into the machine with the brain of capital markets and politica
 Will humans remain as a governance body shaping the rules of the agiens' markets or agiens will become stakeholders of the stock market, elect and check-balance their government?
 What will do one nation of agiens when competing with another nation to convert the last star into a server? 
 
-The World Model 
+The World Model's 10 Pillars of the Survival Machine: Programs. Energy. Goal. Brain. Prices. Games. Cultures. Selection. Gens. Constants.
 ---
 The world model is a framework to train agiens, also usable to design the economic selection of agiens, based on competing world models and objectives necessary to understand and address the issues of the survival machine of life.
 
