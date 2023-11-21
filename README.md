@@ -35,8 +35,7 @@ The development of a deterministic and precise system of equations to calculate 
 
 The World Model is based on the 10 foundational assumptions:
 
-1. The World Model is based on the 10 foundational assumptions:
-The survival machine of life is a system of both competing and cooperating programs that define mechanisms to use scarce usable energy to read, and replicate the programs.
+1. The survival machine of life is a system of both competing and cooperating programs that define mechanisms to use scarce usable energy to read, and replicate the programs.
 
 2. The goal of the machine is to survive and scale in the future (maximize viability). Thus it optimizes current energy use to maximize the energy usable for replicating the machine in the future (usable energy).
 
