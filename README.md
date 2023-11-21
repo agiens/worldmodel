@@ -1,4 +1,4 @@
-# worldmodel the 10 pillars
+# worldmodel: the 10 elements of the survival machine of life
 The World Model is a framework to train Agiens to understand and engineer solutions for the survival machine of life. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable as teams of assistants at agiens.com.
  
 Intro: love within the survival machine
