@@ -5,7 +5,7 @@ Intro: Love within the Survival Machine.
 --- 
 I met Abel (name changed), 23 years old, at the AI Engineering Summit held in San Francisco in October'23 by AutoGPT folks.  Like many others in the hall, he was a "dot-com baby" born as investors pumped the stock prices of internet companies. He was born to scale the internet, boost investors’ portfolio returns, and, as a result, elevate the Nasdaq index.
 
-His mother Eva ended a relationship with a charismatic investment banker to fall in love with his father, a humble introverted engineer. Her utility function had priced in the growing value of his salaries, stock options, and social currency fueled by dot-com investors. She never consciously thought about the cash flow as a reason to marry. Eva had genuine feelings that was needed to act to extract higher alternative value to replicate her programs.
+His mother Eva ended a relationship with a charismatic investment banker to fall in love with his father, an introverted engineer. Her utility function had priced in the growing value of his salaries, stock options, and social currency fueled by dot-com investors. She never consciously thought about the cash flow as a reason to marry. Eva had genuine feelings that was needed to act to extract higher alternative value to replicate her programs before the competition erased the premium.
 
 Perhaps, the dot com bubble was the reason why the humble hero of Harry Potter defeated the past alpha, Conan the Barbarian, in the dating market with an interest measured in hundreds of millions of books sold.
 
