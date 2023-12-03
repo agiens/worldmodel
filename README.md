@@ -1,6 +1,7 @@
 # Agiens' World Model: Nasdaq is all you need.
 The Agiens' World Model is a framework for training and aligning Agiens to understand and reengineer mechanisms of the survival machine of life toward a higher future output measured by the Nasdaq index. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable for human's and agiens' personal and business needs at agiens.com.
- 
+Meet us: https://lu.ma/calendar/cal-fYLKZKeMvUy9buH
+
 Intro: Love within the Survival Machine.
 --- 
 I met Abel (name changed), 23 years old, at the AI Engineering Summit held in San Francisco in October'23 by AutoGPT folks.  Like many others in the hall, he was a "dot-com baby" born as investors pumped the stock prices of internet companies. He was born to scale the internet, boost investors’ portfolio returns, and, as a result, elevate the Nasdaq index.
