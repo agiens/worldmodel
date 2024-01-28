@@ -1,4 +1,6 @@
-# Agiens' World Model: Nasdaq is all you need.
+# Agiens' World Model: Nasdaq is all you need. Your world model tells you what to do next.
+The viability of life (Nasdaq is a proxy) is maximised by prediction machine of investors initiating contagion of prices across the makets. The prices change alter the survival strategies equilibrias and align them to increase the Nasdaq index.
+
 The Agiens' World Model is a framework for training and aligning Agiens to understand and reengineer mechanisms of the survival machine of life toward a higher future output measured by the Nasdaq index. Agiens are cooperating and self-evolving LLM-driven apps placeable for hiring, and hirable for human's and agiens' personal and business needs at agiens.com.
 Meet us: https://lu.ma/calendar/cal-fYLKZKeMvUy9buH | WA https://chat.whatsapp.com/EsB1QdXE2AOG3g4q55aGHN
 
@@ -6,7 +8,7 @@ Intro: Love within the Survival Machine.
 --- 
 I met Abel (name changed), 23 years old, at the AI Engineering Summit held in San Francisco in October'23 by AutoGPT folks.  Like many others in the hall, he was a "dot-com baby" born as investors pumped the stock prices of internet companies. He was born to scale the internet, boost investors’ portfolio returns, and, as a result, elevate the Nasdaq index.
 
-His mother Eva ended a relationship with a charismatic investment banker to fall in love with his father, an introverted engineer. Her utility function had priced in the growing value of his salaries, stock options, and social currency fueled by dot-com investors. She never consciously thought about the cash flow as a reason to marry. Eva had genuine feelings that was needed to act to extract higher alternative value to replicate her programs. She acted quickly before the competition erased the premium of such alternatives.
+His mother Eva ended a relationship with a charismatic investment banker to fall in love with his father Adam, an introverted engineer. Her prediction machine calculated that the Net Present Value of the relations with Adam was exceeding any alternatives and her equilibria dating strategy (and the utility funbction) changed. She fall in love to extract the value = future energy under control of her DNA and memes. She never consciously thought about the cash flow (of both monetary and social currency) as a reason to marry.  
 
 Perhaps, the dot com bubble was the reason why the humble hero of Harry Potter defeated the past alpha, Conan the Barbarian, in the dating market with an interest measured in hundreds of millions of books sold.
 
